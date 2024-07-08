@@ -21,7 +21,7 @@ and real-time message exchange.
 
 ## Experiences
 
-**Internship at Sofia Tech **: Developed a mobile application connected to an ESP32 board to send temperature and humidity data to the app. 
+**Internship at Sofia Tech ** : Developed a mobile application connected to an ESP32 board to send temperature and humidity data to the app. 
 
 ## Contact
 
